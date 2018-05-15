@@ -1,0 +1,79 @@
+body {
+  background-color: #233237;
+  padding-top: 65px;
+  position: relative;
+}
+header {
+  background-color: #0a1612;
+}
+footer {
+  background-color: #0a1612;
+}
+.center {
+  background-color: #c5c1c0;
+}
+header h1 {
+  color: #f7ce3e;
+}
+h2 {
+  text-align: center;
+  color: #233237;
+  font-family: "Cooper";
+  font-size: 50px;
+  margin-top: 55px;
+  margin-bottom: 25px;
+}
+
+.middle {
+  background-color: #c5c1c0;
+}
+footer h2 {
+  color: #f7ce3e;
+}
+.btn-dark {
+  color: #f7ce3e;
+}
+.fa-code {
+  color: #f7ce3e;
+}
+p {
+  color: #233237;
+  font-family: "Century Gothic";
+}
+.profile {
+  height: 250px;
+  width: 250px;
+}
+
+.col {
+  padding-left: 100px;
+  
+}
+
+img.marg{
+  margin-left: 45px;
+  
+}
+
+header a:link {
+    color: #f7ce3e; 
+    text-decoration: none;
+}
+header a:visited {
+    color: #f7ce3e; 
+    text-decoration: none;
+}
+main .fa {
+  padding-bottom: 10px;
+}
+img.screenshot {
+  margin-bottom: 25px;
+}
+.form-control {
+  background-color: #c5c1c0;
+}
+.card {
+  background-color: #c5c1c0;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
